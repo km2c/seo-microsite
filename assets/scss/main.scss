@@ -1,0 +1,16 @@
+$icon-font-path: "../bower_components/sass-bootstrap/fonts/";
+
+@import '../bower_components/sass-bootstrap/lib/bootstrap';
+
+body {
+  padding-bottom: 20px;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.map {
+    height:400px;
+    width:100%;
+}

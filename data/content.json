@@ -1,0 +1,58 @@
+{
+    "title": "seo-microsite",
+    "description": "Dental on 45 hosts a superb dentist in Third Lake, IL. Our friendly dentists offer general, family &amp; cosmetic dentistry. We accept Illinois All Kids &amp; most insurance plans. We also offer discounts for patients without insurance. Call us today at (224) 541-4066 to schedule an appointment.",
+    "url": "http://www.dentistthirdlakeil.com/",
+    "keywords": "Dentist Third Lake IL, dentist, dentistry, cosmetic dentist, family dentist, dental office, veneers, childrens dentist, teeth whitening, invisalign, emergency dentist, teeth cleaning, dental implants, tooth extraction, porcelain crowns, general dentist",
+    "dc_title": "Dentist Third Lake IL | Dental on 45",
+    "geo_region": "US-IL",
+    "geo_placename": "Third Lake",
+    "geo_position": "40.375969;-82.397426",
+    "ICBM": "40.375969, -82.397426",
+    "google_site_verification": "oMP8NcmIENQnTsoIwgtPIKkN70zK7FqBeW_qrtcQpvE",
+    "name": "Testing company",
+    "slogan": "The best company ever",
+    "navigation":{
+        "home": "index",
+        "photos": "photos",
+        "videos": "videos",
+        "reviews": "reviews"
+    },
+    "content": {
+        "h1": "this is the h1",
+        "p": {
+            "p1": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sit, atque eaque fugit rem quo mollitia. Et, harum adipisci esse dolorem earum ipsam quos consequatur perspiciatis voluptatum excepturi eius tenetur provident.",
+            "p2": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. In, voluptatum, quasi laudantium necessitatibus velit sit eum ea reprehenderit eius placeat ullam soluta facere non fugit dolores aliquid ipsa quae ratione."
+        }
+    },
+    "location": {
+        "address": "123 Abc St.",
+        "address2": "Attn: you",
+        "city": "Columbus",
+        "state": "OH",
+        "zip": "43222",
+        "country": "US"
+    },
+    "contact": {
+        "phone": "(555)555-5555",
+        "fax": "",
+        "website": "",
+        "contact_info": "",
+        "email": ""
+    },
+    "hours": {
+        "monday": "9:00am - 5:00pm",
+        "tuesday": "9:00am - 5:00pm",
+        "wednesday": "9:00am - 5:00pm",
+        "thursday": "9:00am - 5:00pm",
+        "friday": "9:00am - 5:00pm",
+        "saturday": "Closed",
+        "sunday": "Closed"
+    },
+    "follow": {
+        "facebook": "",
+        "twitter": "",
+        "google_plus": "",
+        "youtube": ""
+    },
+    "google_analytics": "UA-XXXXX-X"
+}
